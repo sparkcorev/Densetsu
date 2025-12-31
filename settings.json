@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "DenSUSBot", 
+    "username": "NewYearGreetings", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "DensetsuSMP.aternos.me", 
-    "port": 45491,   
+    "ip": "NewYearParty2026.aternos.me", 
+    "port": 43939,   
     "version": "1.12.1"   
   },
   
@@ -35,9 +35,8 @@
       "repeat-delay": 60,
 
       "messages": [
-         "Hello, I am Densetsu",
-        " Insaan hu",
-        "ZKMK"
+         "Happy new year mere dost",
+        "!!!"
       ]
     },
 
